@@ -4,13 +4,11 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>CHICO.chatbot</title>
-   <script src="chatBot.js" type="module"></script>
-    <link rel="stylesheet" href="chatBot.css">
+   <script src="app.js" type="module"></script>
+    <link rel="stylesheet" href="style.css">
     <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
 
-<!-- highlight.js pour la coloration syntaxique -->
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.7.0/styles/github-dark.min.css">
-<script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.7.0/highlight.min.js"></script>
+
 </head>
 <body>
    <div class="nav">
@@ -21,15 +19,15 @@
         </div>
     </div>
 
-                    <div class="chat-content" class="p-4 max-w-2xl mx-auto">
-                        <div id="chat-text"> Welcome to CHICO AI, a chatbot may answers all questions
+                    <div class="chat-content" class="p-4 max-w-2xl mx-auto"><p style="text-align: center; font-size: 1.3rem; padding-bottom: 20px;">Welcome to chatbot CHICO JD !.</p>
+                        <div id="chat-text"> 
                             <span id="loading"></span>
                         </div>
                     </div>
 
                     <div class="content-user">
                                 <div class="content-input">
-                                    <input type="text" id="input-text" placeholder="Poser votre question à CHICO JD">
+                                    <input type="text" id="input-text" placeholder="Poser votre question">
                                     <button type="submit" id="btn">Envoyer</button>
                                 
                                 

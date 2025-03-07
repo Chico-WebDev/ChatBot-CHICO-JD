@@ -1,4 +1,4 @@
---> Mon prémier project💼 de chatbot👾 en mettant en avant mon apprentissage💻 en js pour mieux tester mes connaissances avec fecth📌 ou import🎈 sur les API🚀🌍
+--> Mon prémier project💼 de chatbot👾 en mettant en avant mon apprentissage💻 en js pour mieux tester mes connaissances avec fecth📌 ou import🎈 sur les API🚀🌍    CHICO --version 1.0
 
 
 --->> l'API est spécifique à un domaine par exemple ici le sport, cela à été fais en JavaScript avec un filtrage ('inculde') 
